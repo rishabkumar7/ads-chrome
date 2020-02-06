@@ -3,6 +3,7 @@ function addStyles() {
   var styles = `.visible-ad {
     border: 1px solid blue;
     padding: 1px;
+    background-color:#D3D3D3;
   }`;
 
   var style = document.createElement('style');
